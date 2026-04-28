@@ -46,3 +46,7 @@ The business objective is to use the Fitbit Fitness tracker data to find trends 
 ## Tableu Dashboard
 View the interactive dashboard here.
 [FitBit activity dashboard](https://public.tableau.com/app/profile/lacey.james4273/viz/FitbitSleepActivityAnalysisDashboard/Dashboard1#1)
+
+## Limitations
+- Small sample size (30 users)
+- Uneven distribution across sleep groups
