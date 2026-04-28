@@ -39,7 +39,6 @@ The business objective is to use the Fitbit Fitness tracker data to find trends 
 - Encourage users to maintain consistent sleep patterns, with a focus on optimizing sleep quality rather than just duration.
 
 ## Files in this Repository 
-/sql 
-sleep_vs_steps.sql 
-sleep_activity_vs_time_awake.sql 
-sleep_vs_calories.sql
+- [Sleep vs Steps](sql/sleep_vs_steps.sql)
+- [Sleep vs Calories](sql/sleep_vs_calories.sql)
+- [Sleep vs Awake Time](sql/sleep_activity_vs_time_awake.sql)
