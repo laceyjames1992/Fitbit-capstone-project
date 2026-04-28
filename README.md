@@ -42,3 +42,7 @@ The business objective is to use the Fitbit Fitness tracker data to find trends 
 - [Sleep vs Steps](sleep_vs_steps.sql)
 - [Sleep vs Calories](sleep_vs_calories.sql)
 - [Sleep vs Awake Time](sleep_activity_vs_time_awake.sql)
+
+## Tableu Dashboard
+View the interactive dashboard here.
+[FitBit activity dashboard](https://public.tableau.com/app/profile/lacey.james4273/viz/FitbitSleepActivityAnalysisDashboard/Dashboard1#1)
