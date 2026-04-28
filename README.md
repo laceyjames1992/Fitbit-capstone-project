@@ -1,4 +1,4 @@
-# Fitbit-capstone-project
+# Do Better Sleepers Move More? A Fitbit Data Case Study
 
 ## Business Objective 
 The business objective is to use the Fitbit Fitness tracker data to find trends and patterns between 30 users data. 
